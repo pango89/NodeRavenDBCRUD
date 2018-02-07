@@ -1,0 +1,15 @@
+{
+  "name": "routemax-api",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "~1.18.2",
+    "cors": "~2.8.1",
+    "express": "~4.16.2",
+    "memory-cache": "^0.2.0",
+    "ravendb": "^4.0.0-rc1"
+  },
+  "devDependencies": {}
+}
